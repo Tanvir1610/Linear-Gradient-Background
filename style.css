@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    
+}
+
+#myElement {
+    background: linear-gradient(to right,#3a05f7,#f4d703);
+}
